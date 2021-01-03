@@ -27,6 +27,7 @@ body {
 nav {
   background-color: OrangeRed;
   color: White;
+  display: none;
 }
 
 ul {
